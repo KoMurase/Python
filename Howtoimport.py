@@ -1,0 +1,5 @@
+print("同じ階層にあるファイルのimport")
+print("-->  import ファイル名(py要らない)")
+print()
+print("同じディレクトリにあるファイルのimport")
+print("--> from ディレクトリ名 import ファイル名")
